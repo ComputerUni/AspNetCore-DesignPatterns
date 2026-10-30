@@ -1,0 +1,243 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BURHAN\\Desktop\\DesignPatternProjects\\DesignPatterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86FDB3A6-70F1-DF97-5D3E-8DFB76F380BA}|ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\DesignPattern.ChainOfResponsibility.csproj|c:\\users\\burhan\\desktop\\designpatternprojects\\designpatterns\\chainofresponsibilitydesignpattern\\designpattern.chainofresponsibility\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86FDB3A6-70F1-DF97-5D3E-8DFB76F380BA}|ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\DesignPattern.ChainOfResponsibility.csproj|solutionrelative:chainofresponsibilitydesignpattern\\designpattern.chainofresponsibility\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FDB3A6-70F1-DF97-5D3E-8DFB76F380BA}|ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\DesignPattern.ChainOfResponsibility.csproj|c:\\users\\burhan\\desktop\\designpatternprojects\\designpatterns\\chainofresponsibilitydesignpattern\\designpattern.chainofresponsibility\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FDB3A6-70F1-DF97-5D3E-8DFB76F380BA}|ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\DesignPattern.ChainOfResponsibility.csproj|solutionrelative:chainofresponsibilitydesignpattern\\designpattern.chainofresponsibility\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FDB3A6-70F1-DF97-5D3E-8DFB76F380BA}|ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\DesignPattern.ChainOfResponsibility.csproj|c:\\users\\burhan\\desktop\\designpatternprojects\\designpatterns\\chainofresponsibilitydesignpattern\\designpattern.chainofresponsibility\\chainofresponsibility\\treasurer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FDB3A6-70F1-DF97-5D3E-8DFB76F380BA}|ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\DesignPattern.ChainOfResponsibility.csproj|solutionrelative:chainofresponsibilitydesignpattern\\designpattern.chainofresponsibility\\chainofresponsibility\\treasurer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FDB3A6-70F1-DF97-5D3E-8DFB76F380BA}|ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\DesignPattern.ChainOfResponsibility.csproj|c:\\users\\burhan\\desktop\\designpatternprojects\\designpatterns\\chainofresponsibilitydesignpattern\\designpattern.chainofresponsibility\\chainofresponsibility\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FDB3A6-70F1-DF97-5D3E-8DFB76F380BA}|ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\DesignPattern.ChainOfResponsibility.csproj|solutionrelative:chainofresponsibilitydesignpattern\\designpattern.chainofresponsibility\\chainofresponsibility\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FDB3A6-70F1-DF97-5D3E-8DFB76F380BA}|ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\DesignPattern.ChainOfResponsibility.csproj|c:\\users\\burhan\\desktop\\designpatternprojects\\designpatterns\\chainofresponsibilitydesignpattern\\designpattern.chainofresponsibility\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FDB3A6-70F1-DF97-5D3E-8DFB76F380BA}|ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\DesignPattern.ChainOfResponsibility.csproj|solutionrelative:chainofresponsibilitydesignpattern\\designpattern.chainofresponsibility\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FDB3A6-70F1-DF97-5D3E-8DFB76F380BA}|ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\DesignPattern.ChainOfResponsibility.csproj|c:\\users\\burhan\\desktop\\designpatternprojects\\designpatterns\\chainofresponsibilitydesignpattern\\designpattern.chainofresponsibility\\dal\\customerprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FDB3A6-70F1-DF97-5D3E-8DFB76F380BA}|ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\DesignPattern.ChainOfResponsibility.csproj|solutionrelative:chainofresponsibilitydesignpattern\\designpattern.chainofresponsibility\\dal\\customerprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FDB3A6-70F1-DF97-5D3E-8DFB76F380BA}|ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\DesignPattern.ChainOfResponsibility.csproj|c:\\users\\burhan\\desktop\\designpatternprojects\\designpatterns\\chainofresponsibilitydesignpattern\\designpattern.chainofresponsibility\\dal\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FDB3A6-70F1-DF97-5D3E-8DFB76F380BA}|ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\DesignPattern.ChainOfResponsibility.csproj|solutionrelative:chainofresponsibilitydesignpattern\\designpattern.chainofresponsibility\\dal\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FDB3A6-70F1-DF97-5D3E-8DFB76F380BA}|ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\DesignPattern.ChainOfResponsibility.csproj|c:\\users\\burhan\\desktop\\designpatternprojects\\designpatterns\\chainofresponsibilitydesignpattern\\designpattern.chainofresponsibility\\chainofresponsibility\\managerassistant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FDB3A6-70F1-DF97-5D3E-8DFB76F380BA}|ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\DesignPattern.ChainOfResponsibility.csproj|solutionrelative:chainofresponsibilitydesignpattern\\designpattern.chainofresponsibility\\chainofresponsibility\\managerassistant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FDB3A6-70F1-DF97-5D3E-8DFB76F380BA}|ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\DesignPattern.ChainOfResponsibility.csproj|c:\\users\\burhan\\desktop\\designpatternprojects\\designpatterns\\chainofresponsibilitydesignpattern\\designpattern.chainofresponsibility\\chainofresponsibility\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FDB3A6-70F1-DF97-5D3E-8DFB76F380BA}|ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\DesignPattern.ChainOfResponsibility.csproj|solutionrelative:chainofresponsibilitydesignpattern\\designpattern.chainofresponsibility\\chainofresponsibility\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FDB3A6-70F1-DF97-5D3E-8DFB76F380BA}|ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\DesignPattern.ChainOfResponsibility.csproj|c:\\users\\burhan\\desktop\\designpatternprojects\\designpatterns\\chainofresponsibilitydesignpattern\\designpattern.chainofresponsibility\\models\\customerprocessviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FDB3A6-70F1-DF97-5D3E-8DFB76F380BA}|ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\DesignPattern.ChainOfResponsibility.csproj|solutionrelative:chainofresponsibilitydesignpattern\\designpattern.chainofresponsibility\\models\\customerprocessviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FDB3A6-70F1-DF97-5D3E-8DFB76F380BA}|ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\DesignPattern.ChainOfResponsibility.csproj|c:\\users\\burhan\\desktop\\designpatternprojects\\designpatterns\\chainofresponsibilitydesignpattern\\designpattern.chainofresponsibility\\chainofresponsibility\\areadirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FDB3A6-70F1-DF97-5D3E-8DFB76F380BA}|ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\DesignPattern.ChainOfResponsibility.csproj|solutionrelative:chainofresponsibilitydesignpattern\\designpattern.chainofresponsibility\\chainofresponsibility\\areadirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 629,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\DesignPatternProjects\\DesignPatterns\\ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\DesignPatternProjects\\DesignPatterns\\ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\Views\\Default\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-30T15:27:45.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\DesignPatternProjects\\DesignPatterns\\ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\DesignPatternProjects\\DesignPatterns\\ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\Controllers\\DefaultController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T15:20:38.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AreaDirector.cs",
+              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\DesignPatternProjects\\DesignPatterns\\ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\ChainOfResponsibility\\AreaDirector.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\ChainOfResponsibility\\AreaDirector.cs",
+              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\DesignPatternProjects\\DesignPatterns\\ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\ChainOfResponsibility\\AreaDirector.cs",
+              "RelativeToolTip": "ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\ChainOfResponsibility\\AreaDirector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T15:14:21.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerProcessViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\DesignPatternProjects\\DesignPatterns\\ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\Models\\CustomerProcessViewModel.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\Models\\CustomerProcessViewModel.cs",
+              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\DesignPatternProjects\\DesignPatterns\\ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\Models\\CustomerProcessViewModel.cs",
+              "RelativeToolTip": "ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\Models\\CustomerProcessViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T12:53:51.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\DesignPatternProjects\\DesignPatterns\\ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\DAL\\Context.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\DAL\\Context.cs",
+              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\DesignPatternProjects\\DesignPatterns\\ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\DAL\\Context.cs",
+              "RelativeToolTip": "ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\DAL\\Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T12:18:48.581Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 629,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\DesignPatternProjects\\DesignPatterns\\ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\Startup.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\Startup.cs",
+              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\DesignPatternProjects\\DesignPatterns\\ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\Startup.cs",
+              "RelativeToolTip": "ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T15:45:04.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\DesignPatternProjects\\DesignPatterns\\ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\ChainOfResponsibility\\Employee.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\ChainOfResponsibility\\Employee.cs",
+              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\DesignPatternProjects\\DesignPatterns\\ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\ChainOfResponsibility\\Employee.cs",
+              "RelativeToolTip": "ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\ChainOfResponsibility\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T12:57:57.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\DesignPatternProjects\\DesignPatterns\\ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\ChainOfResponsibility\\Manager.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\ChainOfResponsibility\\Manager.cs",
+              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\DesignPatternProjects\\DesignPatterns\\ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\ChainOfResponsibility\\Manager.cs",
+              "RelativeToolTip": "ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\ChainOfResponsibility\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T15:10:32.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Treasurer.cs",
+              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\DesignPatternProjects\\DesignPatterns\\ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\ChainOfResponsibility\\Treasurer.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\ChainOfResponsibility\\Treasurer.cs",
+              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\DesignPatternProjects\\DesignPatterns\\ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\ChainOfResponsibility\\Treasurer.cs",
+              "RelativeToolTip": "ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\ChainOfResponsibility\\Treasurer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T14:24:30.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ManagerAssistant.cs",
+              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\DesignPatternProjects\\DesignPatterns\\ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\ChainOfResponsibility\\ManagerAssistant.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\ChainOfResponsibility\\ManagerAssistant.cs",
+              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\DesignPatternProjects\\DesignPatterns\\ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\ChainOfResponsibility\\ManagerAssistant.cs",
+              "RelativeToolTip": "ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\ChainOfResponsibility\\ManagerAssistant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T14:39:11.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerProcess.cs",
+              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\DesignPatternProjects\\DesignPatterns\\ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\DAL\\CustomerProcess.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\DAL\\CustomerProcess.cs",
+              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\DesignPatternProjects\\DesignPatterns\\ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\DAL\\CustomerProcess.cs",
+              "RelativeToolTip": "ChainOfResponsibilityDesignPattern\\DesignPattern.ChainOfResponsibility\\DAL\\CustomerProcess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T12:19:10.212Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 629,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
