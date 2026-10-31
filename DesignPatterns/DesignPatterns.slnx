@@ -2,4 +2,10 @@
   <Folder Name="/ChainOfResponsibilityDesignPattern/">
     <Project Path="ChainOfResponsibilityDesignPattern/DesignPattern.ChainOfResponsibility/DesignPattern.ChainOfResponsibility.csproj" />
   </Folder>
+  <Folder Name="/CQRSDesignPattern/">
+    <Project Path="CQRSDesignPattern/DesignPattern.CQRS/DesignPattern.CQRS.csproj" Id="f3e7c86a-7a9c-45c3-82d1-81c8a6a6874c" />
+  </Folder>
+  <Folder Name="/ObserverDesignPattern/">
+    <Project Path="ObserverDesignPattern/DesignPattern.Observer/DesignPattern.Observer.csproj" Id="6a8e48d5-118e-498f-802f-8464c29fe7d1" />
+  </Folder>
 </Solution>

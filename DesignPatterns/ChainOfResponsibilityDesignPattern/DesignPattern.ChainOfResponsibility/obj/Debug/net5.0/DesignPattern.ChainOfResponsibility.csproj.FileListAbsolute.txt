@@ -75,3 +75,4 @@ C:\Users\BURHAN\Desktop\DesignPatternProjects\DesignPatterns\ChainOfResponsibili
 C:\Users\BURHAN\Desktop\DesignPatternProjects\DesignPatterns\ChainOfResponsibilityDesignPattern\DesignPattern.ChainOfResponsibility\obj\Debug\net5.0\DesignPattern.ChainOfResponsibility.genruntimeconfig.cache
 C:\Users\BURHAN\Desktop\DesignPatternProjects\DesignPatterns\ChainOfResponsibilityDesignPattern\DesignPattern.ChainOfResponsibility\obj\Debug\net5.0\ref\DesignPattern.ChainOfResponsibility.dll
 C:\Users\BURHAN\Desktop\DesignPatternProjects\DesignPatterns\ChainOfResponsibilityDesignPattern\DesignPattern.ChainOfResponsibility\obj\Debug\net5.0\Razor\Views\Default\Index.cshtml.g.cs
+C:\Users\BURHAN\Desktop\DesignPatternProjects\DesignPatterns\ChainOfResponsibilityDesignPattern\DesignPattern.ChainOfResponsibility\obj\Debug\net5.0\DesignPattern.ChainOfResponsibility.sourcelink.json
