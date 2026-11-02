@@ -7,7 +7,7 @@ namespace DesignPattern.Observer.DAL
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server=DESKTOP-213H3J8\\SQLEXPRESS;Database=ObserverDesignPatternDB;Integrated Security=True;TrustServerCertificate=True;");
+            optionsBuilder.UseSqlServer("Server=;Database=ObserverDesignPatternDB;Integrated Security=True;TrustServerCertificate=True;");
         }
 
         public DbSet<Discount> Discounts { get; set; }

@@ -5,6 +5,9 @@
   <Folder Name="/CQRSDesignPattern/">
     <Project Path="CQRSDesignPattern/DesignPattern.CQRS/DesignPattern.CQRS.csproj" Id="f3e7c86a-7a9c-45c3-82d1-81c8a6a6874c" />
   </Folder>
+  <Folder Name="/DecoratorDesignPattern/">
+    <Project Path="DecoratorDesignPattern/DesignPattern.Decorator/DesignPattern.Decorator.csproj" Id="edc971c2-f43d-4eec-a05f-dee55eab150c" />
+  </Folder>
   <Folder Name="/ObserverDesignPattern/">
     <Project Path="ObserverDesignPattern/DesignPattern.Observer/DesignPattern.Observer.csproj" Id="6a8e48d5-118e-498f-802f-8464c29fe7d1" />
   </Folder>

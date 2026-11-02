@@ -1,0 +1,23 @@
+﻿@using DesignPattern.Decorator.DAL
+@model Message
+
+@{
+    Layout = null;
+}
+<link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+
+<form method="post">
+    <label>Gönderen</label>
+    <input type="text" class="form-control" asp-for="MessageSender" />
+    <br />
+    <label>Alıcı</label>
+    <input type="text" class="form-control" asp-for="MessageReceiver" />
+    <br />
+    <label>Konu</label>
+    <input type="text" class="form-control" asp-for="MessageSubject" />
+    <br />
+    <label>Mesaj İçeriği</label>
+    <input type="text" class="form-control" asp-for="MessageContent" />
+    <br />
+    <button class="btn btn-outline-secondary">Mesajı Gönder</button>
+</form>

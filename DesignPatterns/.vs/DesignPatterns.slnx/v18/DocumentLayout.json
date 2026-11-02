@@ -1,52 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\BURHAN\\Desktop\\DesignPatternProjects\\DesignPatterns\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{6A8E48D5-118E-498F-802F-8464C29FE7D1}|ObserverDesignPattern\\DesignPattern.Observer\\DesignPattern.Observer.csproj|c:\\users\\burhan\\desktop\\designpatternprojects\\designpatterns\\observerdesignpattern\\designpattern.observer\\observerpattern\\createwelcomemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A8E48D5-118E-498F-802F-8464C29FE7D1}|ObserverDesignPattern\\DesignPattern.Observer\\DesignPattern.Observer.csproj|solutionrelative:observerdesignpattern\\designpattern.observer\\observerpattern\\createwelcomemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A8E48D5-118E-498F-802F-8464C29FE7D1}|ObserverDesignPattern\\DesignPattern.Observer\\DesignPattern.Observer.csproj|c:\\users\\burhan\\desktop\\designpatternprojects\\designpatterns\\observerdesignpattern\\designpattern.observer\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6A8E48D5-118E-498F-802F-8464C29FE7D1}|ObserverDesignPattern\\DesignPattern.Observer\\DesignPattern.Observer.csproj|solutionrelative:observerdesignpattern\\designpattern.observer\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A8E48D5-118E-498F-802F-8464C29FE7D1}|ObserverDesignPattern\\DesignPattern.Observer\\DesignPattern.Observer.csproj|c:\\users\\burhan\\desktop\\designpatternprojects\\designpatterns\\observerdesignpattern\\designpattern.observer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A8E48D5-118E-498F-802F-8464C29FE7D1}|ObserverDesignPattern\\DesignPattern.Observer\\DesignPattern.Observer.csproj|solutionrelative:observerdesignpattern\\designpattern.observer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A8E48D5-118E-498F-802F-8464C29FE7D1}|ObserverDesignPattern\\DesignPattern.Observer\\DesignPattern.Observer.csproj|c:\\users\\burhan\\desktop\\designpatternprojects\\designpatterns\\observerdesignpattern\\designpattern.observer\\observerpattern\\createmagazineannouncement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A8E48D5-118E-498F-802F-8464C29FE7D1}|ObserverDesignPattern\\DesignPattern.Observer\\DesignPattern.Observer.csproj|solutionrelative:observerdesignpattern\\designpattern.observer\\observerpattern\\createmagazineannouncement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A8E48D5-118E-498F-802F-8464C29FE7D1}|ObserverDesignPattern\\DesignPattern.Observer\\DesignPattern.Observer.csproj|c:\\users\\burhan\\desktop\\designpatternprojects\\designpatterns\\observerdesignpattern\\designpattern.observer\\observerpattern\\creatediscountcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A8E48D5-118E-498F-802F-8464C29FE7D1}|ObserverDesignPattern\\DesignPattern.Observer\\DesignPattern.Observer.csproj|solutionrelative:observerdesignpattern\\designpattern.observer\\observerpattern\\creatediscountcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A8E48D5-118E-498F-802F-8464C29FE7D1}|ObserverDesignPattern\\DesignPattern.Observer\\DesignPattern.Observer.csproj|c:\\users\\burhan\\desktop\\designpatternprojects\\designpatterns\\observerdesignpattern\\designpattern.observer\\observerpattern\\observerobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A8E48D5-118E-498F-802F-8464C29FE7D1}|ObserverDesignPattern\\DesignPattern.Observer\\DesignPattern.Observer.csproj|solutionrelative:observerdesignpattern\\designpattern.observer\\observerpattern\\observerobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A8E48D5-118E-498F-802F-8464C29FE7D1}|ObserverDesignPattern\\DesignPattern.Observer\\DesignPattern.Observer.csproj|c:\\users\\burhan\\desktop\\designpatternprojects\\designpatterns\\observerdesignpattern\\designpattern.observer\\observerpattern\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A8E48D5-118E-498F-802F-8464C29FE7D1}|ObserverDesignPattern\\DesignPattern.Observer\\DesignPattern.Observer.csproj|solutionrelative:observerdesignpattern\\designpattern.observer\\observerpattern\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A8E48D5-118E-498F-802F-8464C29FE7D1}|ObserverDesignPattern\\DesignPattern.Observer\\DesignPattern.Observer.csproj|c:\\users\\burhan\\desktop\\designpatternprojects\\designpatterns\\observerdesignpattern\\designpattern.observer\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A8E48D5-118E-498F-802F-8464C29FE7D1}|ObserverDesignPattern\\DesignPattern.Observer\\DesignPattern.Observer.csproj|solutionrelative:observerdesignpattern\\designpattern.observer\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A8E48D5-118E-498F-802F-8464C29FE7D1}|ObserverDesignPattern\\DesignPattern.Observer\\DesignPattern.Observer.csproj|c:\\users\\burhan\\desktop\\designpatternprojects\\designpatterns\\observerdesignpattern\\designpattern.observer\\dal\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A8E48D5-118E-498F-802F-8464C29FE7D1}|ObserverDesignPattern\\DesignPattern.Observer\\DesignPattern.Observer.csproj|solutionrelative:observerdesignpattern\\designpattern.observer\\dal\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A8E48D5-118E-498F-802F-8464C29FE7D1}|ObserverDesignPattern\\DesignPattern.Observer\\DesignPattern.Observer.csproj|c:\\users\\burhan\\desktop\\designpatternprojects\\designpatterns\\observerdesignpattern\\designpattern.observer\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A8E48D5-118E-498F-802F-8464C29FE7D1}|ObserverDesignPattern\\DesignPattern.Observer\\DesignPattern.Observer.csproj|solutionrelative:observerdesignpattern\\designpattern.observer\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A8E48D5-118E-498F-802F-8464C29FE7D1}|ObserverDesignPattern\\DesignPattern.Observer\\DesignPattern.Observer.csproj|c:\\users\\burhan\\desktop\\designpatternprojects\\designpatterns\\observerdesignpattern\\designpattern.observer\\dal\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A8E48D5-118E-498F-802F-8464C29FE7D1}|ObserverDesignPattern\\DesignPattern.Observer\\DesignPattern.Observer.csproj|solutionrelative:observerdesignpattern\\designpattern.observer\\dal\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -54,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 629,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -71,155 +26,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CreateMagazineAnnouncement.cs",
-              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\DesignPatternProjects\\DesignPatterns\\ObserverDesignPattern\\DesignPattern.Observer\\ObserverPattern\\CreateMagazineAnnouncement.cs",
-              "RelativeDocumentMoniker": "ObserverDesignPattern\\DesignPattern.Observer\\ObserverPattern\\CreateMagazineAnnouncement.cs",
-              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\DesignPatternProjects\\DesignPatterns\\ObserverDesignPattern\\DesignPattern.Observer\\ObserverPattern\\CreateMagazineAnnouncement.cs",
-              "RelativeToolTip": "ObserverDesignPattern\\DesignPattern.Observer\\ObserverPattern\\CreateMagazineAnnouncement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T12:16:06.487Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CreateWelcomeMessage.cs",
-              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\DesignPatternProjects\\DesignPatterns\\ObserverDesignPattern\\DesignPattern.Observer\\ObserverPattern\\CreateWelcomeMessage.cs",
-              "RelativeDocumentMoniker": "ObserverDesignPattern\\DesignPattern.Observer\\ObserverPattern\\CreateWelcomeMessage.cs",
-              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\DesignPatternProjects\\DesignPatterns\\ObserverDesignPattern\\DesignPattern.Observer\\ObserverPattern\\CreateWelcomeMessage.cs",
-              "RelativeToolTip": "ObserverDesignPattern\\DesignPattern.Observer\\ObserverPattern\\CreateWelcomeMessage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T12:11:04.779Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CreateDiscountCode.cs",
-              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\DesignPatternProjects\\DesignPatterns\\ObserverDesignPattern\\DesignPattern.Observer\\ObserverPattern\\CreateDiscountCode.cs",
-              "RelativeDocumentMoniker": "ObserverDesignPattern\\DesignPattern.Observer\\ObserverPattern\\CreateDiscountCode.cs",
-              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\DesignPatternProjects\\DesignPatterns\\ObserverDesignPattern\\DesignPattern.Observer\\ObserverPattern\\CreateDiscountCode.cs",
-              "RelativeToolTip": "ObserverDesignPattern\\DesignPattern.Observer\\ObserverPattern\\CreateDiscountCode.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T12:19:45.659Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\DesignPatternProjects\\DesignPatterns\\ObserverDesignPattern\\DesignPattern.Observer\\Program.cs",
-              "RelativeDocumentMoniker": "ObserverDesignPattern\\DesignPattern.Observer\\Program.cs",
-              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\DesignPatternProjects\\DesignPatterns\\ObserverDesignPattern\\DesignPattern.Observer\\Program.cs",
-              "RelativeToolTip": "ObserverDesignPattern\\DesignPattern.Observer\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T12:32:25.468Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\DesignPatternProjects\\DesignPatterns\\ObserverDesignPattern\\DesignPattern.Observer\\Views\\Default\\Index.cshtml",
-              "RelativeDocumentMoniker": "ObserverDesignPattern\\DesignPattern.Observer\\Views\\Default\\Index.cshtml",
-              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\DesignPatternProjects\\DesignPatterns\\ObserverDesignPattern\\DesignPattern.Observer\\Views\\Default\\Index.cshtml",
-              "RelativeToolTip": "ObserverDesignPattern\\DesignPattern.Observer\\Views\\Default\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-31T12:26:07.778Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ObserverObject.cs",
-              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\DesignPatternProjects\\DesignPatterns\\ObserverDesignPattern\\DesignPattern.Observer\\ObserverPattern\\ObserverObject.cs",
-              "RelativeDocumentMoniker": "ObserverDesignPattern\\DesignPattern.Observer\\ObserverPattern\\ObserverObject.cs",
-              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\DesignPatternProjects\\DesignPatterns\\ObserverDesignPattern\\DesignPattern.Observer\\ObserverPattern\\ObserverObject.cs",
-              "RelativeToolTip": "ObserverDesignPattern\\DesignPattern.Observer\\ObserverPattern\\ObserverObject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T12:05:06.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IObserver.cs",
-              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\DesignPatternProjects\\DesignPatterns\\ObserverDesignPattern\\DesignPattern.Observer\\ObserverPattern\\IObserver.cs",
-              "RelativeDocumentMoniker": "ObserverDesignPattern\\DesignPattern.Observer\\ObserverPattern\\IObserver.cs",
-              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\DesignPatternProjects\\DesignPatterns\\ObserverDesignPattern\\DesignPattern.Observer\\ObserverPattern\\IObserver.cs",
-              "RelativeToolTip": "ObserverDesignPattern\\DesignPattern.Observer\\ObserverPattern\\IObserver.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T12:03:44.476Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DefaultController.cs",
-              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\DesignPatternProjects\\DesignPatterns\\ObserverDesignPattern\\DesignPattern.Observer\\Controllers\\DefaultController.cs",
-              "RelativeDocumentMoniker": "ObserverDesignPattern\\DesignPattern.Observer\\Controllers\\DefaultController.cs",
-              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\DesignPatternProjects\\DesignPatterns\\ObserverDesignPattern\\DesignPattern.Observer\\Controllers\\DefaultController.cs",
-              "RelativeToolTip": "ObserverDesignPattern\\DesignPattern.Observer\\Controllers\\DefaultController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T12:23:02.92Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Context.cs",
-              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\DesignPatternProjects\\DesignPatterns\\ObserverDesignPattern\\DesignPattern.Observer\\DAL\\Context.cs",
-              "RelativeDocumentMoniker": "ObserverDesignPattern\\DesignPattern.Observer\\DAL\\Context.cs",
-              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\DesignPatternProjects\\DesignPatterns\\ObserverDesignPattern\\DesignPattern.Observer\\DAL\\Context.cs",
-              "RelativeToolTip": "ObserverDesignPattern\\DesignPattern.Observer\\DAL\\Context.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T12:42:36.894Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Discount.cs",
-              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\DesignPatternProjects\\DesignPatterns\\ObserverDesignPattern\\DesignPattern.Observer\\DAL\\Discount.cs",
-              "RelativeDocumentMoniker": "ObserverDesignPattern\\DesignPattern.Observer\\DAL\\Discount.cs",
-              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\DesignPatternProjects\\DesignPatterns\\ObserverDesignPattern\\DesignPattern.Observer\\DAL\\Discount.cs",
-              "RelativeToolTip": "ObserverDesignPattern\\DesignPattern.Observer\\DAL\\Discount.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T12:44:51.781Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 629,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "RegisterViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\DesignPatternProjects\\DesignPatterns\\ObserverDesignPattern\\DesignPattern.Observer\\Models\\RegisterViewModel.cs",
-              "RelativeDocumentMoniker": "ObserverDesignPattern\\DesignPattern.Observer\\Models\\RegisterViewModel.cs",
-              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\DesignPatternProjects\\DesignPatterns\\ObserverDesignPattern\\DesignPattern.Observer\\Models\\RegisterViewModel.cs",
-              "RelativeToolTip": "ObserverDesignPattern\\DesignPattern.Observer\\Models\\RegisterViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T12:21:57.233Z",
-              "EditorCaption": ""
             }
           ]
         },
